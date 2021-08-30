@@ -36,8 +36,8 @@ section{
 
 }
 .header-part{
-
     background-color: #F0FFF0;
+    width:100%
     
 }
 
@@ -224,8 +224,8 @@ background: #282531;
 .footer p{
     color: #F0FFF0;
     padding-top: 10%;
-    padding-left:15%;
-    padding-right: 15%;
+
+
 
 }
 
@@ -248,7 +248,11 @@ li{
 
 .pad{
     padding-top: 4%;
+    padding-left: 10%;
+    
 }
+
+
 
 .row{
     margin:0;
