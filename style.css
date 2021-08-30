@@ -40,6 +40,7 @@ section{
 
 .header-items{
     padding-top: 68px;
+    padding-bottom: 50px;
 }
 
 .text-red{
@@ -221,7 +222,9 @@ background: #282531;
 }
 .footer p{
     color: #F0FFF0;
-    padding: 12%;
+    padding-top: 10%;
+    padding-left:15%;
+    padding-right: 15%;
 
 }
 
@@ -243,7 +246,7 @@ li{
 }
 
 .pad{
-    padding-top: 5%;
+    padding-top: 4%;
     padding-left: 5%;
 }
 
